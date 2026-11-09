@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# React / Node.js
+node_modules/
+dist/
+
+# Testing
+.pytest_cache/
+.coverage
+coverage/
+
+# IDE
+.vscode/
+.idea/
