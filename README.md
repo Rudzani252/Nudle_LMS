@@ -20,6 +20,11 @@ The application was developed using **React, FastAPI, SQLAlchemy, and MySQL**.
 - Manage active and inactive simulations.
 - View individual learner progress and performance.
 - Monitor learner participation and completed simulations.
+- Admin account:
+```bash
+ rendi@gmail.com
+passoword: R12345678r!
+```
 
 ### Learner Features
 
